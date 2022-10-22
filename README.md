@@ -2,5 +2,5 @@
 Patient Monitoring System for Doctor using ASP.net Framework
 
 Developed By
-Om Jogani
+Om Jogani,
 Amish Domadiya
